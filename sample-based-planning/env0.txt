@@ -1,0 +1,9 @@
+Bounds: -100 100 -50 150
+Obstacle: 5 -15 25 30 5 20
+Obstacle: 20 90 50 90 50 110 40 120
+Obstacle: 70 20 70 40 90 50 100 50 80 40
+Obstacle: -50 20 -50 40 -80 50 -90 50 -80 40
+Obstacle: -10 40 10 40 10 60 -10 60
+Start: -50 50
+Goal: 75 80
+RectRobot: 3 5

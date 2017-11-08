@@ -1,0 +1,9 @@
+Bounds: -100 100 -50 150
+RobotLinks: 30 20 30
+RobotBase: 0 50
+Obstacle: 0 15 20 30 0 30
+Obstacle: 20 90 50 90 50 110 40 120
+Obstacle: 70 20 70 40 90 50 100 50 80 40
+Obstacle: -50 20 -50 40 -80 50 -90 50 -80 40
+Start: 0 0 0
+Goal: -0.4 -0.15 -0.3
